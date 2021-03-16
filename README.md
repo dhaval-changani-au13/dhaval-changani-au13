@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dhaval-changani-au13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dhaval
+- 👀 I’m interested in learning web technologies
+- 🌱 I’m currently learning Nodejs
+- 💞️ I’m looking to collaborate on Back-end projects using nodejs
+- 📫 How to reach me "dhavalchangani@gmail.com"
 
 <!---
 dhaval-changani-au13/dhaval-changani-au13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
